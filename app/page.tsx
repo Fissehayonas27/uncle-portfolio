@@ -238,24 +238,29 @@ export default function MelakuPortfolio() {
               </h3>
               <p className="text-xs text-slate-500 mb-6">Connect across social media for daily motivation, nutrition tips, and culinary inspiration.</p>
 
-              <div className="grid grid-cols-2 gap-4">
-                <a 
-                  href="https://t.me/August_Boy_888" 
-                  target="_blank" 
-                  rel="noreferrer"
-                  className="p-3 rounded-xl bg-slate-900 border border-slate-800 hover:border-cyan-500/50 flex items-center gap-3 text-xs font-semibold text-slate-300 hover:text-cyan-400 transition-all"
-                >
-                  <Send className="w-4 h-4 text-cyan-400" /> Telegram
-                </a>
-                <a 
-                  href="https://www.facebook.com/share/1GDvq5nJhB/" 
-                  target="_blank" 
-                  rel="noreferrer"
-                  className="p-3 rounded-xl bg-slate-900 border border-slate-800 hover:border-blue-500/50 flex items-center gap-3 text-xs font-semibold text-slate-300 hover:text-blue-400 transition-all"
-                >
-                  <div className="w-4 h-4 rounded bg-blue-500 text-slate-950 font-black text-[10px] flex items-center justify-center">f</div> Facebook
-                </a>
-              </div>
+              <div className="grid grid-cols-2 gap-3">
+  <a 
+    href="https://t.me/August_Boy_888" 
+    target="_blank" 
+    rel="noreferrer"
+    className="p-3 rounded-xl bg-slate-900 border border-slate-800 hover:border-cyan-500/50 flex items-center justify-center gap-2.5 text-xs font-semibold text-slate-300 hover:text-cyan-400 transition-all"
+  >
+    <Send className="w-4 h-4 text-cyan-400 shrink-0" />
+    <span>Telegram</span>
+  </a>
+
+  <a 
+    href="https://www.facebook.com/share/1GDvq5nJhB/" 
+    target="_blank" 
+    rel="noreferrer"
+    className="p-3 rounded-xl bg-slate-900 border border-slate-800 hover:border-blue-500/50 flex items-center justify-center gap-2.5 text-xs font-semibold text-slate-300 hover:text-blue-400 transition-all"
+  >
+    <div className="w-4 h-4 rounded bg-blue-500 text-slate-950 font-black text-[10px] flex items-center justify-center shrink-0">
+      f
+    </div>
+    <span>Facebook</span>
+  </a>
+</div>
             </div>
 
           </div>

@@ -262,7 +262,7 @@ export default function MelakuPortfolio() {
   </a>
 
 <a
-  href="https://instagram.com/miko_miko_1"
+  href="https://instagram.com/mike_miko_1"
   target="_blank"
   rel="noopener noreferrer"
   className="p-3 rounded-xl bg-slate-900 border border-slate-800 hover:border-blue-500/50 flex items-center justify-center gap-2 text-slate-300 hover:text-white transition-all col-span-2"

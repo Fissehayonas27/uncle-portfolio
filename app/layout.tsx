@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Melaku Endale | Portfolio",
-  description: "Personal Portfolio Website",
+  title: "Mike Endale | Portfolio",
+  description: "Welcome to the official portfolio of Mike Endale",
   verification: {
     google: "19-G67gQRUaAFLwgYtx0dTZxxDUMas8ZASxPtHtO3as",
   },
